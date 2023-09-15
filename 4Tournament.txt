@@ -1,0 +1,13 @@
+first#a#23#b#3#c#434#d#55#a#55#c#4#
+second#a#54#b#3#c#76#d#5#a#88#c#54#
+third#a#54#b#4#c#77#d#3#a#32#c#2#
+best#do#32#fd#4#sss#43#dfg#23#do#4#sss#55#
+rugby#Team1#44#Team2#23#Team3#65#Team4#4#Team1#34#Team3#23#
+good#a#1#b#22#c#43#d#3#b#32#c#43#
+soccer#a#12#b#33#c#54#d#2#b#12#c#33#
+hockey#a#24#b#33#c#4#d#55#b#12#d#33#
+ping pong#team a#33#team b#43#team c#2#team d#32#team b#4#team d#34#
+swimming#a#32#b#3#c#43#d#4#a#56#c#77#
+running#a#1#b#2#c#3#d#4#b#32#d#33#
+end#Team1#432#Team2#23#Team3#6#Team4#76#Team1#32#Team4#3#
+baseball#a#77#b#6#c#43#d#5#a#23#c#3#
